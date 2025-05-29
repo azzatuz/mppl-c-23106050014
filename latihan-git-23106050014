@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+MPPL C
+
+Fakhriyatuz Zahro
+23106050014
+
+1. Apa kelebihan metode Agile dibanding metode lain?
+Metode Agile punya banyak kelebihan, antara lain:
+•	Lebih fleksibel: Kalau ada perubahan kebutuhan atau permintaan dari klien, Agile bisa menyesuaikan lebih mudah, tidak harus mulai dari awal.
+•	Kerja bertahap dan cepat diuji: Proyek dibagi dalam bagian kecil (sprint) dan langsung diuji, jadi kalau ada kesalahan bisa cepat diperbaiki.
+•	Kerja sama tim dan klien lebih dekat: Tim dan klien sering berdiskusi, jadi hasilnya lebih sesuai harapan.
+•	Cepat menghasilkan versi awal: Tidak perlu menunggu semua selesai, fitur bisa dirilis sebagian demi sebagian.
+
+2. Apa tugas seorang Scrum Master?
+Scrum Master itu seperti pemimpin tim yang bantu jaga kerja tim tetap lancar. Tugasnya:
+•	Bantu tim menjalankan aturan dan proses Scrum dengan benar.
+•	Menghilangkan hambatan atau masalah yang bikin tim tidak bisa kerja maksimal.
+•	Melindungi tim dari gangguan luar, misalnya permintaan tambahan saat sprint sedang berjalan.
+•	Bikin tim kerja sama dengan baik dan saling komunikasi.
+•	Ngajarin Scrum ke tim atau orang-orang lain di organisasi.
+
+3. Apa itu WIP (Work In Progress) dalam Kanban
+WIP artinya pekerjaan yang sedang dikerjakan saat ini. Dalam metode Kanban, kita batasi jumlah pekerjaan yang boleh dikerjakan sekaligus supaya tim tidak kewalahan. Dengan WIP yang terbatas, tim jadi bisa fokus menyelesaikan tugas satu per satu sampai selesai, bukan numpuk setengah jadi.
+
+4. Apa saja jenis Version Control System (VCS)?
+VCS itu alat buat nyimpan dan ngatur perubahan kode program. Ada 2 jenis utama:
+•	Centralized VCS (sistem pusat):
+Contohnya SVN, semua data disimpan di satu server pusat. Kalau servernya rusak, semua kerjaan bisa terhenti.
+•	Distributed VCS (sistem terdistribusi):
+Contohnya Git, setiap orang punya salinan lengkap project-nya. Jadi walaupun offline, tetap bisa kerja dan nyimpan perubahan. Lebih aman dan fleksibel.
+=======
+MPPL C
+
+Fakhriyatuz Zahro
+23106050014
+
+1. Apa kelebihan metode Agile dibanding metode lain?
+Metode Agile punya banyak kelebihan, antara lain:
+•	Lebih fleksibel: Kalau ada perubahan kebutuhan atau permintaan dari klien, Agile bisa menyesuaikan lebih mudah, tidak harus mulai dari awal.
+•	Kerja bertahap dan cepat diuji: Proyek dibagi dalam bagian kecil (sprint) dan langsung diuji, jadi kalau ada kesalahan bisa cepat diperbaiki.
+•	Kerja sama tim dan klien lebih dekat: Tim dan klien sering berdiskusi, jadi hasilnya lebih sesuai harapan.
+•	Cepat menghasilkan versi awal: Tidak perlu menunggu semua selesai, fitur bisa dirilis sebagian demi sebagian.
+
+2. Apa tugas seorang Scrum Master?
+Scrum Master itu seperti pemimpin tim yang bantu jaga kerja tim tetap lancar. Tugasnya:
+•	Bantu tim menjalankan aturan dan proses Scrum dengan benar.
+•	Menghilangkan hambatan atau masalah yang bikin tim tidak bisa kerja maksimal.
+•	Melindungi tim dari gangguan luar, misalnya permintaan tambahan saat sprint sedang berjalan.
+•	Bikin tim kerja sama dengan baik dan saling komunikasi.
+•	Ngajarin Scrum ke tim atau orang-orang lain di organisasi.
+
+3. Apa itu WIP (Work In Progress) dalam Kanban
+WIP artinya pekerjaan yang sedang dikerjakan saat ini. Dalam metode Kanban, kita batasi jumlah pekerjaan yang boleh dikerjakan sekaligus supaya tim tidak kewalahan. Dengan WIP yang terbatas, tim jadi bisa fokus menyelesaikan tugas satu per satu sampai selesai, bukan numpuk setengah jadi.
+
+4. Apa saja jenis Version Control System (VCS)?
+VCS itu alat buat nyimpan dan ngatur perubahan kode program. Ada 2 jenis utama:
+•	Centralized VCS (sistem pusat):
+Contohnya SVN, semua data disimpan di satu server pusat. Kalau servernya rusak, semua kerjaan bisa terhenti.
+•	Distributed VCS (sistem terdistribusi):
+Contohnya Git, setiap orang punya salinan lengkap project-nya. Jadi walaupun offline, tetap bisa kerja dan nyimpan perubahan. Lebih aman dan fleksibel.
+>>>>>>> 43aab703686d06c6063cd411bff0f9d4b6c3a2a0
